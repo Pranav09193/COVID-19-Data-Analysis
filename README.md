@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis Project
+# COVID-19 Data Analysis
 
 This project analyzes the impact of the COVID-19 pandemic on various countries around the world. It explores factors such as the number of confirmed cases, deaths, stringency index, population, GDP per capita, and the Human Development Index (HDI). The analysis is performed using Python and popular data analysis libraries like Pandas, Plotly, and Plotly Express.
 
